@@ -18,4 +18,4 @@ OTHER_FILES += \
     qml/ValueSource.qml
 
 target.path = $$[QT_INSTALL_EXAMPLES]/quickcontrols/extras/dashboard
-INSTALLS += target
+INSTALLS += target.....
